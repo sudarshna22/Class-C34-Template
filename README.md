@@ -1,2 +1,2 @@
-# Class-C34-Template
-Wrecking ball template
+# p5.play-boilerplate
+Boiler plate for p5.play
